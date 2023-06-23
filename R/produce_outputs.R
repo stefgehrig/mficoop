@@ -361,7 +361,7 @@ dev.off()
 #####################################
 #### compute mantel correlations ####
 #####################################
-df_cultmap <- read_csv2("data/Cultural_Map.csv") %>% 
+df_cultmap <- read_csv2("utils/Cultural_Map.csv") %>% 
   mutate(country.name = countrycode::countrycode(Country, origin = "country.name", destination= "country.name")) %>% 
   select(country.name, Zone)
 

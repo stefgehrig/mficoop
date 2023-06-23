@@ -51,7 +51,7 @@ knitr::opts_chunk$set(echo = FALSE, message = FALSE, warnings = FALSE, cache = F
 mainmodel             <- readRDS(file = paste0("modelfiles/m_main.rds"))
 s_mainmodel           <- summary(mainmodel)
 df                    <- read_csv(paste0("modelfiles/data_model_unscaled_main.csv"), show_col_types = FALSE)
-df_cultmap            <- read_csv2("data/Cultural_Map.csv")
+df_cultmap            <- read_csv2("utils/Cultural_Map.csv")
 descrtab              <- readRDS("outputs/tab_descriptives_main.rds")
 modeltab              <- readRDS("outputs/tab_model_main.rds")
 icepttab              <- readRDS("outputs/tab_varyicepts_main.rds")
