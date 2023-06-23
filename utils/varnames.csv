@@ -1,0 +1,28 @@
+﻿var;label
+par30;PAR 30
+share_grp;Group lending share
+cooperation;Cooperative norms
+year;Year
+inst_type;Institutional type
+age;MFI age (years)
+log_avg_loan;Log Average loan size (USD)
+log_numborrs;Log Number borrowers
+log_ass_loan;Log Assets to loans ratio
+wdi_gdp;GDP per capita, PPP (1000 USD)
+wdi_gdpgrowth;GDP per capita growth (annual %)
+wdi_inflation;Inflation, consumer prices (annual %)
+wdi_remittances;Personal remittances received (% of GDP)
+wdi_laborforce;Labor force participation (% of total population)
+wdi_manufac;Manufacturing, value added (% of GDP)
+wdi_rural;Rural population (% of total population)
+wdi_privcredit;Domestic credit to private sector (% of GDP)
+wgi_reg;Regulatory quality (WGI)
+wgi_law;Rule of law (WGI)
+wgi_sta;Political stability (WGI)
+wgi_eff;Government effectiveness (WGI)
+wgi_cor;Control of corrpution (WGI)
+wgi_acc;Voice and accountability (WGI)
+ling_cluster;Cultural cluster
+country.name;Country
+wdi_agricul;Agriculture, forestry, and fishing, value added (% of GDP)
+swiid_gini;Gini index (household disposable income)
